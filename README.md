@@ -24,6 +24,8 @@ THis project is a **nature-themed photography portfolio** titled **Nature's Canv
 
 ---
 
+**Note:** THis project was built for learning purposes to explore and practice [mention technologies]. Security and production-level optimizations are not the primary focus.
+
 ## Preview
 
 ![Natur's Canvas](/pic.png)
